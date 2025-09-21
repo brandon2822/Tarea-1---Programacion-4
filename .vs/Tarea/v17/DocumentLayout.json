@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Tarea\\Controllers\\MatriculasController.cs",
               "ToolTip": "C:\\Users\\brand\\Documents\\Universidad\\Q3 - 2025\\Programacion IV\\SESION-2-WEBAPI\\Tarea\\Tarea\\Controllers\\MatriculasController.cs",
               "RelativeToolTip": "Tarea\\Controllers\\MatriculasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-20T22:26:13.525Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "Tarea\\Models\\Matricula.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T22:20:31.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T22:20:31.924Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "Tarea\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-20T22:13:31.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T22:13:31.933Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "Tarea\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-20T22:11:55.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-20T22:11:55.082Z"
             }
           ]
         }

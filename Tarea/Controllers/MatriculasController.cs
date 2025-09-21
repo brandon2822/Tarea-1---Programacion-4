@@ -30,6 +30,7 @@ namespace Tarea.Controllers
             return Matriculas;   
         }
 
+        //Metodo calcula pago
         [HttpGet]
         [Route("getPago")]
         public string GetPago(int num)
